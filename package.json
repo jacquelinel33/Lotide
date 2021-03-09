@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@jacqulinel33/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lotide Library for learning purposes",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/jacquelinel33/Lotide.git"
   },
-  "author": "",
+  "author": "Jacqueline Lee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jacquelinel33/Lotide/issues"
