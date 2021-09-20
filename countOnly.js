@@ -16,5 +16,5 @@ const countOnly = function (allItems, itemsToCount) {
     }
   } return results;
 };
-
+console.log(countOnly(['hello', 'world', 'jello', 'hello'], {hello: true, jello: true, pudding: true}))
 module.exports = countOnly;
